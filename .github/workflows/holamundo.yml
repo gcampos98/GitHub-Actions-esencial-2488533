@@ -1,4 +1,4 @@
-name: file.NET
+name: .NET v1
 
 on:
   push:
